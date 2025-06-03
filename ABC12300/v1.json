@@ -5,7 +5,7 @@
         "appV2": {
           "type": "front-end",
           "id": "68754221-064a-4935-978f-f56dcd86af71",
-          "name": "Aman's App",
+          "name": "ABC12300",
           "slug": "68754221-064a-4935-978f-f56dcd86af71",
           "isPublic": false,
           "isMaintenanceOn": false,
@@ -17,7 +17,7 @@
           "workflowEnabled": false,
           "createdAt": "2025-06-03T23:50:39.662Z",
           "creationMode": "DEFAULT",
-          "updatedAt": "2025-06-03T23:50:49.125Z",
+          "updatedAt": "2025-06-03T23:51:18.159Z",
           "editingVersion": {
             "id": "541fa5f1-e3ef-4668-86b2-d3d3ab8bd956",
             "name": "v1",
