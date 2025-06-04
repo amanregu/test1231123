@@ -44,7 +44,7 @@
         "appV2": {
           "type": "front-end",
           "id": "ffea142e-971b-4a00-94ae-844753f0226a",
-          "name": "Aman_9999",
+          "name": "Aman_9999_new___23",
           "slug": "ffea142e-971b-4a00-94ae-844753f0226a",
           "isPublic": false,
           "isMaintenanceOn": false,
@@ -56,7 +56,7 @@
           "workflowEnabled": false,
           "createdAt": "2025-06-04T08:39:32.682Z",
           "creationMode": "DEFAULT",
-          "updatedAt": "2025-06-04T08:39:32.672Z",
+          "updatedAt": "2025-06-04T08:47:55.374Z",
           "editingVersion": {
             "id": "604571c8-98f1-4ac5-860a-0edaa76c2493",
             "name": "v1",
@@ -254,7 +254,7 @@
               },
               "validation": {},
               "createdAt": "2025-06-04T08:39:42.479Z",
-              "updatedAt": "2025-06-04T08:41:34.622Z",
+              "updatedAt": "2025-06-04T08:47:44.204Z",
               "layouts": [
                 {
                   "id": "134ec9f8-f384-41c5-82f6-d598dbc7044b",
@@ -730,7 +730,7 @@
               "dataSourceId": "a3eab1f8-606f-4c99-a55b-7555ca72e92b",
               "appVersionId": "604571c8-98f1-4ac5-860a-0edaa76c2493",
               "createdAt": "2025-06-04T08:39:50.312Z",
-              "updatedAt": "2025-06-04T08:41:34.182Z"
+              "updatedAt": "2025-06-04T08:47:42.461Z"
             },
             {
               "id": "097ecf53-34eb-4e95-9970-9c8ecad977b7",
