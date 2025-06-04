@@ -5,7 +5,7 @@
         "appV2": {
           "type": "front-end",
           "id": "c3e07f02-3ecc-476a-9939-36b850fe14b6",
-          "name": "nmzcnznmzmczmncz",
+          "name": "nmzcnznmzmczmncztest",
           "slug": "c3e07f02-3ecc-476a-9939-36b850fe14b6",
           "isPublic": false,
           "isMaintenanceOn": false,
@@ -17,7 +17,7 @@
           "workflowEnabled": false,
           "createdAt": "2025-06-04T05:01:06.299Z",
           "creationMode": "DEFAULT",
-          "updatedAt": "2025-06-04T05:01:34.082Z",
+          "updatedAt": "2025-06-04T05:02:35.197Z",
           "editingVersion": {
             "id": "f1761b6b-3367-4e4e-89b2-dca31262fb66",
             "name": "v1",
