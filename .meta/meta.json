@@ -62,5 +62,13 @@
     "lastpushDate": "2025-08-07T00:23:36.273Z",
     "gitVersionName": "v1",
     "lastCommitUser": "aman "
+  },
+  "68cfc251-43a2-4d2b-b549-166ef872e209": {
+    "gitAppName": "ngngnngngng",
+    "lastCommitMessage": " v1 Version of app ngngnngngng promoted from development to staging",
+    "gitVersionId": "cef302d5-c17f-4f28-9fc1-c5598264ed6d",
+    "lastpushDate": "2025-09-02T09:23:12.875Z",
+    "gitVersionName": "v1",
+    "lastCommitUser": "aman "
   }
 }
